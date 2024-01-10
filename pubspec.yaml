@@ -12,9 +12,6 @@ dependencies:
   flutter_bloc: ^8.1.3
   freezed_annotation: ^2.4.1
   get_it: ^7.6.4
-  injectable: ^2.3.2
-  dartz: ^0.10.1
-  equatable: ^2.0.5
 
 dev_dependencies:
   flutter_test:
@@ -22,7 +19,6 @@ dev_dependencies:
   flutter_lints: ^2.0.0
   build_runner: ^2.4.6
   freezed: ^2.4.5
-  injectable_generator: ^2.4.1
 
 flutter:
   uses-material-design: true
